@@ -2,6 +2,8 @@
 
 Introduction aux outils de machine-learning
 
+## Prise en main des modèles 
+
 ## Session 1: prise en main des modèles
 
 1. Les différents modèles de références, apprentissage, inférence
