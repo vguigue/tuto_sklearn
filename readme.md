@@ -1,4 +1,6 @@
-# Introduction aux outils de scikit-learn
+# Tutoriel sur la bibliothèque scikit-learn
+
+Introduction aux outils de machine-learning
 
 ## Session 1: prise en main des modèles
 
