@@ -2,7 +2,7 @@
 
 Introduction aux outils de machine-learning
 
-## Prise en main des modèles 
+## Session 1: Prise en main des modèles 
 
 ## Session 1: prise en main des modèles
 
