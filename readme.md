@@ -42,17 +42,15 @@ Le module de programmation sera évalué sous la forme de projet:
         * kaggle
         * UCI
         * toute autre sources ou API est également valable
-        * <p style="color:magenta"> Valider l'intérêt des données et de la tâche avec moi avant de vous lancer</p>
+        * 🟥 Valider l'intérêt des données et de la tâche avec moi avant de vous lancer 🟥
 
 * Présentation et consigens détaillées pour les notebooks à rendre
     * 1 notebook par jeu de données
     * Si vous avez des fonctions partagées entre notebooks, merci d'utiliser des modules
     * Il est tout à fait possible (et souhaitable) de bien présenter les résultats dans le notebook (diagramme bar, tableaux, etc...)
-    * Ces résultats **doivent** être accompagnés d'analyses (succinctes mais pertinentes). Ces analyses seront présentées dans des boites distinctives:
+    * Ces résultats **doivent** être accompagnés d'analyses (succinctes mais pertinentes). Ces analyses seront présentées dans des boites distinctives pour que je ne puisse pas manquer vos commentaires:
     
     ```
     > <span style="color:magenta"> Nous nous attendions à ce que le modèle 1 soit meilleur que le 2 car... </span>
     ```
-
-    > <span style="color:magenta"> Nous nous attendions à ce que le modèle 1 soit meilleur que le 2 car... </span>
 
