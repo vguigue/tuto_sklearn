@@ -27,6 +27,13 @@ Introduction aux outils de machine-learning
 3. Optimisation de l'ensemble de la chaine
     * retour sur le Grid-search
 
+## Session 4: Visualisation de données
+
+1. Rappels sur l'ACP
+2. Projections linéaires
+3. Projections non linéaires
+4. Interface interactive
+
 # Evaluation de l'UE Prog
 
 Le module de programmation sera évalué sous la forme de projet:
