@@ -58,6 +58,6 @@ Le module de programmation sera évalué sous la forme de projet:
     * Ces résultats **doivent** être accompagnés d'analyses (succinctes mais pertinentes). Ces analyses seront présentées dans des boites distinctives pour que je ne puisse pas manquer vos commentaires:
     
     ```
-    > <span style="color:magenta"> Nous nous attendions à ce que le modèle 1 soit meilleur que le 2 car... </span>
+    <span style="color:magenta"> Nous nous attendions à ce que le modèle 1 soit meilleur que le 2 car... </span>
     ```
 
