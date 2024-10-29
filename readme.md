@@ -12,10 +12,16 @@ Introduction aux outils de machine-learning
 
 1. Métriques d'évaluation
     * taux de bonne classification, précision, rappel, f1... Mais aussi ROC
-    * validation croisée
-2. Sélection de modèles, sélection de caractéristiques
+2. Validation croisée
+    * Différents usage 
+
+## Session 3: Sélection de modèle, sélection de caractéristiques
+
+1. Sélection de modèles
     * procédure à la main
-    * grid search
+    * grid-search
+2. Sélection de caratctéristiques
+
 
 ## Session 3: Chaine de traitement
 
@@ -26,6 +32,7 @@ Introduction aux outils de machine-learning
     * nature des données d'entrée (en apprentissage puis en inférence)
 3. Optimisation de l'ensemble de la chaine
     * retour sur le Grid-search
+    * Optuna
 
 ## Session 4: Visualisation de données
 
@@ -38,16 +45,18 @@ Introduction aux outils de machine-learning
 
 Le module de programmation sera évalué sous la forme de projet:
 * A réaliser en monome ou en binome
-* Rendre en Janvier (date à préciser)
-    * Une partie du travail est possible dès maintenant
-* Basé sur au moins 3 jeux de données permettant de mettre en avant:
-    * Différentes tâches supervisées: classification, régression
+* Rendre le 18 Novembre 2024
+* Basé sur au moins 2 jeux de données permettant de mettre en avant:
+    * Différentes tâches supervisées: classification, régression *(Idéalement 1 problème de chaque, mais ce n'est pas obligé. Si vos données sont très différentes, vous pouvez traiter deux problèmes de classification ou de régression)*
     * Optimisation des performances (sélection de modèles, de caractéristiques, optimisation des pré-traitement)
         * Présentation des performances de référence par rapport aux performances optimisées
-    * Modèles scikit-learn + approches deep-learning
+        * Courbe de performances par rapport aux réglages: montrer que vous savez choisir les bonnes approches et les régler
+    * Illustrer + analyser vos résultats comme pour les expliquer à un expert métier *Phrases explicatives, choix des métriques, illustration d'ensemble etc...*
     * Les sources de données sont:
-        * kaggle
-        * UCI
+        * [Kaggle](https://www.kaggle.com)
+        * [UCI](https://archive.ics.uci.edu/datasets)
+        * [UCR (pour les séries temporelles simples)](https://www.cs.ucr.edu/~eamonn/time_series_data/)
+        * [Data gouv](https://www.data.gouv.fr/fr/)
         * toute autre sources ou API est également valable
         * 🟥 Valider l'intérêt des données et de la tâche avec moi avant de vous lancer 🟥
 
