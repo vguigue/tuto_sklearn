@@ -41,11 +41,11 @@ Introduction aux outils de machine-learning
 3. Projections non linéaires
 4. Interface interactive
 
-# Evaluation de l'UE Prog
+# Evaluation de l'UE : le machine learning en pratique
 
 Le module de programmation sera évalué sous la forme de projet:
 * A réaliser en monome ou en binome
-* Rendre le 18 Novembre 2024
+* Rendre le 31 mars 2025
 * Basé sur au moins 2 jeux de données permettant de mettre en avant:
     * Différentes tâches supervisées: classification, régression *(Idéalement 1 problème de chaque, mais ce n'est pas obligé. Si vos données sont très différentes, vous pouvez traiter deux problèmes de classification ou de régression)*
     * Optimisation des performances (sélection de modèles, de caractéristiques, optimisation des pré-traitement)
@@ -69,4 +69,8 @@ Le module de programmation sera évalué sous la forme de projet:
     ```
     <span style="color:magenta"> Nous nous attendions à ce que le modèle 1 soit meilleur que le 2 car... </span>
     ```
-
+    * Voua ajouterez une boite à la fin du notebook présentant une courte prise de recul par rapport aux expériencesen abordant par exemple:
+        - les principales difficultés rencontrées
+        - l'apport du machine learning (aurait-on pu faire les mêmes analyses à la main?)
+        - des idées d'applications connexes à valeur économique, sociale ou solidaire qui seraient envisageables avec les mêmes techniques
+        - ...
